@@ -75,3 +75,4 @@ function App() {
 ```
 
 💚 Esta es la magia de la composición de componentes.
+> By JuanDC
